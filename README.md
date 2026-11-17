@@ -9,8 +9,8 @@
 
 ## Installation
 
-1. Extract the ZIP to desktop
-2. Connect the mouse via USB or receiver
-3. Run the installer, then replug the mouse
+1.Download the Mirace Driver installation
+2.Run the driver installation
+3.Open the driver software and complete the mouse debugging
 
 > Browser may warn about unsigned archive — choose "Keep" / "Download anyway".
