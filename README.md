@@ -4,7 +4,7 @@
 
 | Model | Version | OS | Download |
 |---|---|---|---|
-| M601 Driver | v1.0 | Windows 10 / 11 | [下载 Download](这里粘贴Release链接) |
+| M601 Driver | v1.0 | Windows 10 / 11 | [下载 Download](https://github.com/MIRACEStore/MIRACE-Driver/releases/tag/MIRACE-M601) |
 | M701 Driver | v1.0 | Windows 10 / 11 | [下载 Download](这里粘贴Release链接) |
 
 ## Installation
